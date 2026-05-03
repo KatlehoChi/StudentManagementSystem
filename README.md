@@ -3,7 +3,7 @@
 ## Why I’m Doing This
 I’m learning C# as part of Microsoft’s Full Stack Developer course on Coursera. This project is one of my first real coding activities where I get to plan, design, and build something from scratch.  
 
-I’m documenting it here because this isn’t just about finishing an assignment — it’s about showing my progress as I actively learn a new language and start thinking like a developer.
+I’m documenting it here because this isn’t just about finishing an assignment. It’s about showing my progress as I actively learn a new language and start thinking like a developer.
 
 ---
 
